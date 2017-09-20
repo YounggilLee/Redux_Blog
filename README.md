@@ -6,7 +6,8 @@ Technology and tools:
  * Redux : Predictable state container for JavaScript apps.
  * Axios : Promise based HTTP client for the browser and node.js
  * redux-promise : FSA-compliant promise middleware for Redux
- * lodash : A modern JavaScript utility library delivering modularity, performance & extras.
+ * redux-form : Enable an html form in React to use Redux to store all of its stat
+ * lodash : A modern JavaScript utility library delivering modularity, performance & extras
  * Bootstrap 4 :	Most popular front-end component library
  
  ## Setup
