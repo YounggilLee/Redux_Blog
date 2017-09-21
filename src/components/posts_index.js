@@ -26,9 +26,9 @@ renderPosts() {
 
     render() {
         return (
-            <div>
+            <div className>
                 <div className='text-xs-right'>
-                    <Link to='/posts/new' className='btn btn-primary'>
+                    <Link to='/posts/new' className='btn btn-primary pull-xs-right'>
                     Add a Post
                     </Link>
                 </div>
